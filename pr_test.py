@@ -1,3 +1,5 @@
+# author: Corin Dennison
+
 """
 This program asks the user for input and then prints that many powers of two.
 
